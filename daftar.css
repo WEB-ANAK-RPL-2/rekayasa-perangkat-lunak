@@ -1,0 +1,37 @@
+*
+html{
+    margin:"0%";
+    padding:0%;
+    
+}
+body{
+
+  box-shadow: 20px 25px 20px 0px green;
+    background-color: black;
+}
+.h3-content{
+  color: blue;
+  color: aliceblue;
+
+font-size: large;
+  height: 100%;
+  width: 100%;
+}
+.border-content{
+    height: 100%;
+    width: 100%;
+text-align: center;
+background-color: black;
+border-color: blueviolet;
+color: chartreuse;
+justify-items: center;
+}
+    
+
+.p-content{
+  background-color:black;
+  color: gold;
+  align-items: center;
+  text-align: right;
+
+}

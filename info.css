@@ -1,0 +1,31 @@
+body{
+  box-shadow: 30px 20px 25px 0px rgb(102, 136, 199);
+  background-color: rgb(169, 223, 70);
+}
+div{
+    font-size: 20px;
+    align-items: center;
+    box-shadow: 30px 20px 25px 0px rgb(0, 0, 0);
+   
+    color: rgba(0, 0, 0, 0.747);
+  text-align: center;
+  justify-content: center;
+  justify-items: center;
+ text-decoration:-  ;
+}
+    
+.button-clas{
+background-color: aliceblue;
+  text-align: right;
+  
+  
+}
+
+.c-content{
+  text-align: center;
+  border-radius: 100px;
+  box-shadow: 30px 20px 0px red;
+  box-sizing: 20px 30px 0px red;
+  color: red;
+  
+}
